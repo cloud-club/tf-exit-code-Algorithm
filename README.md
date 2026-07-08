@@ -43,6 +43,15 @@
       <br />
       <sub>TF장</sub>
     </td>
+    <td align="center">
+      <a href="https://github.com/HyejunKoo">
+        <img src="https://avatars.githubusercontent.com/HyejunKoo" width="100px;" alt="구혜준"/>
+        <br />
+        <sub><b>구혜준</b></sub>
+      </a>
+      <br />
+      <sub>TF원</sub>
+    </td>
   </tr>
 </table>
 
